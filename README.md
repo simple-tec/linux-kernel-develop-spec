@@ -10,5 +10,8 @@
 
 ## 有问题联系我
 【微信】: jianshuolinux 
+
 【微信公众号】：简说linux 
+
 【b站、抖音】：简说linux 
+

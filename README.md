@@ -7,7 +7,10 @@
 - quality-guidelines.md: 编码规范（内核风格）
 - error-handling.md: 内核代码中的错误处理规范
 - logging-guidelines.md: 内核代码日志、调试规范
+## 进阶
+[《Linux网络协议栈从应用层到内核层》](https://www.bilibili.com/cheese/play/ss5362?csource=private_space_class_null&spm_id_from=333.1387.0.0 "Linux网络协议栈")
 
+[《Linux内核内存管理和调试》](https://www.bilibili.com/cheese/play/ss3125?csource=private_space_class_null&spm_id_from=333.1387.0.0 "Linux内存管理")
 ## 有问题联系我
 【微信】: jianshuolinux 
 
